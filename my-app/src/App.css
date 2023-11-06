@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+  
+}
+.Item{
+    cursor: pointer;
+    align-items: center;
+}
+.btnController{
+    display: flex;
+    
+}
